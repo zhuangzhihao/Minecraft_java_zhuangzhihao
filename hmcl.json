@@ -1,0 +1,85 @@
+{
+  "last": "Default",
+  "backgroundType": "DEFAULT",
+  "commonDirType": "CUSTOM",
+  "commonpath": "./.minecraft",
+  "hasProxy": false,
+  "hasProxyAuth": false,
+  "proxyType": "HTTP",
+  "proxyPort": 0,
+  "theme": "#5c6bc0",
+  "localization": "def",
+  "downloadType": "mcbbs",
+  "configurations": {
+    "Default": {
+      "global": {
+        "usesGlobal": true,
+        "javaArgs": "",
+        "minecraftArgs": "",
+        "maxMemory": 4096,
+        "permSize": "",
+        "width": 854,
+        "height": 480,
+        "javaDir": "",
+        "precalledCommand": "",
+        "serverIp": "",
+        "java": "1.8.0_162",
+        "wrapper": "",
+        "fullscreen": false,
+        "noJVMArgs": false,
+        "notCheckGame": false,
+        "notCheckJVM": false,
+        "showLogs": false,
+        "gameDir": "",
+        "launcherVisibility": 1,
+        "gameDirType": 0,
+        "defaultJavaPath": ".\\Java64\\bin\\java.exe"
+      },
+      "gameDir": ".minecraft",
+      "useRelativePath": true
+    },
+    "Home": {
+      "global": {
+        "usesGlobal": false,
+        "javaArgs": "",
+        "minecraftArgs": "",
+        "maxMemory": 4096,
+        "permSize": "",
+        "width": 854,
+        "height": 480,
+        "javaDir": "",
+        "precalledCommand": "",
+        "serverIp": "",
+        "java": "",
+        "wrapper": "",
+        "fullscreen": false,
+        "noJVMArgs": false,
+        "notCheckGame": false,
+        "notCheckJVM": false,
+        "showLogs": false,
+        "gameDir": "",
+        "launcherVisibility": 1,
+        "gameDirType": 0,
+        "defaultJavaPath": ""
+      },
+      "gameDir": ".\\.minecraft",
+      "useRelativePath": false,
+      "selectedMinecraftVersion": "1.11.2"
+    }
+  },
+  "accounts": [
+    {
+      "uuid": "a34d003595d43b8994d72d6ae373b178",
+      "username": "zhuangzhihao",
+      "type": "offline",
+      "selected": true
+    }
+  ],
+  "fontFamily": "Consolas",
+  "fontSize": 12.0,
+  "logLines": 100,
+  "authlibInjectorServers": [],
+  "updateChannel": "DEVELOPMENT",
+  "_version": 0,
+  "uiVersion": 0
+}
