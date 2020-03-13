@@ -23,7 +23,7 @@
         "javaDir": "",
         "precalledCommand": "",
         "serverIp": "",
-        "java": "1.8.0_162",
+        "java": "1.8.0_201",
         "wrapper": "",
         "fullscreen": false,
         "noJVMArgs": false,
@@ -36,7 +36,8 @@
         "defaultJavaPath": ".\\Java64\\bin\\java.exe"
       },
       "gameDir": ".minecraft",
-      "useRelativePath": true
+      "useRelativePath": true,
+      "selectedMinecraftVersion": "1.15.2"
     },
     "Home": {
       "global": {
