@@ -20,8 +20,8 @@ toggleCrouch:false
 toggleSprint:false
 mouseSensitivity:0.5
 fov:0.0
-gamma:0.5059364686703792
-renderDistance:8
+gamma:0.5059364438056946
+renderDistance:15
 guiScale:0
 particles:0
 maxFps:120
@@ -37,7 +37,7 @@ lang:zh_cn
 chatVisibility:0
 chatOpacity:1.0
 textBackgroundOpacity:0.5
-backgroundForChatOnly:true
+backgroundForChatOnly:false
 hideServerAddress:false
 advancedItemTooltips:false
 pauseOnLostFocus:true
@@ -67,9 +67,9 @@ key_key.right:key.keyboard.d
 key_key.jump:key.keyboard.space
 key_key.sneak:key.keyboard.left.shift
 key_key.sprint:key.keyboard.left.control
-key_key.drop:key.keyboard.q
+key_key.drop:key.keyboard.g
 key_key.inventory:key.keyboard.e
-key_key.chat:key.keyboard.t
+key_key.chat:key.keyboard.enter
 key_key.playerlist:key.keyboard.tab
 key_key.pickItem:key.mouse.middle
 key_key.command:key.keyboard.slash
