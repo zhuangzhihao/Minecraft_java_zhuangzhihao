@@ -1,0 +1,65 @@
+{
+  "eTag": [
+    {
+      "url": "https://launchermeta.mojang.com/v1/packages/b2bc26bec3ed3d4763722941b75a25c0a043b744/1.15.2.json",
+      "eTag": "\"8788067a5865bfe8211ddee6afeb8827\"",
+      "hash": "b2bc26bec3ed3d4763722941b75a25c0a043b744",
+      "local": 1583914232139,
+      "remote": "Fri, 24 Jan 2020 11:24:34 GMT"
+    },
+    {
+      "url": "https://launchermeta.mojang.com/mc/game/version_manifest.json",
+      "eTag": "\"a8b00a69c835b3299659192f5caf18b5\"",
+      "hash": "99de3ae30da623829e42c5d5e893fc895a3b7500",
+      "local": 1583914083039,
+      "remote": "Wed, 04 Mar 2020 16:38:33 GMT"
+    },
+    {
+      "url": "https://download.mcbbs.net/optifine/versionlist",
+      "eTag": "W/\"49ab-StF2MZ6epEqn3fMZe31EevqmgFM\"",
+      "hash": "4ad176319e9ea44aa7ddf3197b7d447afaa68053",
+      "local": 1582613941954
+    },
+    {
+      "url": "https://download.mcbbs.net/forge/minecraft/1.15.2",
+      "eTag": "W/\"37ad-tVhCpFTOG56hXG5+fKjntekOIE4\"",
+      "hash": "b55842a454ce1b9ea15c6e7e7ca8e7b5e90e204e",
+      "local": 1582613760394
+    },
+    {
+      "url": "https://download.mcbbs.net/v1/packages/b2bc26bec3ed3d4763722941b75a25c0a043b744/1.15.2.json",
+      "eTag": "\"5e3238a5-9ada\"",
+      "hash": "b2bc26bec3ed3d4763722941b75a25c0a043b744",
+      "local": 1582614487211,
+      "remote": "Thu, 30 Jan 2020 02:00:05 GMT"
+    },
+    {
+      "url": "https://download.mcbbs.net/mc/game/version_manifest.json",
+      "eTag": "\"5e532e21-1c099\"",
+      "hash": "07ed32c1ad704520e85e8e1f796144c3daad524f",
+      "local": 1582613739020,
+      "remote": "Mon, 24 Feb 2020 02:00:01 GMT"
+    },
+    {
+      "url": "https://download.mcbbs.net/v1/packages/28c11387f2c576240a31d359991bbaed28db57ab/1.15.json",
+      "eTag": "\"5e2ad3ea-3957e\"",
+      "hash": "28c11387f2c576240a31d359991bbaed28db57ab",
+      "local": 1582614487601,
+      "remote": "Fri, 24 Jan 2020 11:24:26 GMT"
+    },
+    {
+      "url": "https://download.mcbbs.net/maven/com/optifine/1.15.2/preview_OptiFine_1.15.2_HD_U_G1_pre8.jar",
+      "eTag": "\"5e51dcc0-5261a6\"",
+      "hash": "e2e76b9af6cdeb6403dfb3d60e0c2f1b401d756a",
+      "local": 1582614563140,
+      "remote": "Sun, 23 Feb 2020 02:00:32 GMT"
+    },
+    {
+      "url": "https://launchermeta.mojang.com/v1/packages/28c11387f2c576240a31d359991bbaed28db57ab/1.15.json",
+      "eTag": "\"da7fb8df64dd0f011a9ec1b8d11c8b80\"",
+      "hash": "28c11387f2c576240a31d359991bbaed28db57ab",
+      "local": 1583914233442,
+      "remote": "Fri, 24 Jan 2020 11:24:26 GMT"
+    }
+  ]
+}
