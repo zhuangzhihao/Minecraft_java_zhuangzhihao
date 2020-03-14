@@ -31,7 +31,7 @@
         "notCheckJVM": false,
         "showLogs": false,
         "gameDir": "",
-        "launcherVisibility": 1,
+        "launcherVisibility": 3,
         "gameDirType": 0,
         "defaultJavaPath": ".\\Java64\\bin\\java.exe"
       },
