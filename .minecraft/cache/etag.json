@@ -21,6 +21,27 @@
       "local": 1582613941954
     },
     {
+      "url": "https://download.mcbbs.net/v1/packages/6e69e85d0f85f4f4b9e12dd99d102092a6e15918/1.12.2.json",
+      "eTag": "\"5d165602-4aa6\"",
+      "hash": "6e69e85d0f85f4f4b9e12dd99d102092a6e15918",
+      "local": 1584883363231,
+      "remote": "Fri, 28 Jun 2019 18:01:38 GMT"
+    },
+    {
+      "url": "https://download.mcbbs.net/mc/game/version_manifest.json",
+      "eTag": "\"5e6875ce-1c25d\"",
+      "hash": "99de3ae30da623829e42c5d5e893fc895a3b7500",
+      "local": 1584883244189,
+      "remote": "Wed, 11 Mar 2020 05:23:26 GMT"
+    },
+    {
+      "url": "https://download.mcbbs.net/v1/packages/1584b57c1a0b5e593fad1f5b8f78536ca640547b/1.12.json",
+      "eTag": "\"5d16560f-22f22\"",
+      "hash": "1584b57c1a0b5e593fad1f5b8f78536ca640547b",
+      "local": 1584883363514,
+      "remote": "Fri, 28 Jun 2019 18:01:51 GMT"
+    },
+    {
       "url": "https://download.mcbbs.net/forge/minecraft/1.15.2",
       "eTag": "W/\"37ad-tVhCpFTOG56hXG5+fKjntekOIE4\"",
       "hash": "b55842a454ce1b9ea15c6e7e7ca8e7b5e90e204e",
@@ -32,13 +53,6 @@
       "hash": "b2bc26bec3ed3d4763722941b75a25c0a043b744",
       "local": 1582614487211,
       "remote": "Thu, 30 Jan 2020 02:00:05 GMT"
-    },
-    {
-      "url": "https://download.mcbbs.net/mc/game/version_manifest.json",
-      "eTag": "\"5e532e21-1c099\"",
-      "hash": "07ed32c1ad704520e85e8e1f796144c3daad524f",
-      "local": 1582613739020,
-      "remote": "Mon, 24 Feb 2020 02:00:01 GMT"
     },
     {
       "url": "https://download.mcbbs.net/v1/packages/28c11387f2c576240a31d359991bbaed28db57ab/1.15.json",
