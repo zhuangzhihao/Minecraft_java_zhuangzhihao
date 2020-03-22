@@ -1,1 +1,1 @@
-.\Java64\bin\java.exe -jar .\HMCL-3.3.156.jar
+.\Java64\bin\java.exe -jar .\HMCL-3.3.158.jar
