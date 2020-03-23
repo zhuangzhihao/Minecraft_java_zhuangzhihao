@@ -204,6 +204,76 @@
       "name": "org.apache.commons:commons-lang3:3.5",
       "hash": "6c6c702c89bfff3cd9e80b04d668c5e190d588c6",
       "type": "jar"
+    },
+    {
+      "name": "org.lwjgl.lwjgl:lwjgl:2.9.4-nightly-20150209",
+      "hash": "697517568c68e78ae0b4544145af031c81082dfe",
+      "type": "jar"
+    },
+    {
+      "name": "org.lwjgl.lwjgl:lwjgl_util:2.9.4-nightly-20150209",
+      "hash": "d51a7c040a721d13efdfbd34f8b257b2df882ad0",
+      "type": "jar"
+    },
+    {
+      "name": "com.paulscode:codecwav:20101023",
+      "hash": "12f031cfe88fef5c1dd36c563c0a3a69bd7261da",
+      "type": "jar"
+    },
+    {
+      "name": "com.paulscode:librarylwjglopenal:20100824",
+      "hash": "73e80d0794c39665aec3f62eee88ca91676674ef",
+      "type": "jar"
+    },
+    {
+      "name": "com.paulscode:libraryjavasound:20101123",
+      "hash": "5c5e304366f75f9eaa2e8cca546a1fb6109348b3",
+      "type": "jar"
+    },
+    {
+      "name": "com.paulscode:codecjorbis:20101023",
+      "hash": "c73b5636faf089d9f00e8732a829577de25237ee",
+      "type": "jar"
+    },
+    {
+      "name": "org.lwjgl.lwjgl:lwjgl-platform:2.9.4-nightly-20150209",
+      "hash": "b84d5102b9dbfabfeb5e43c7e2828d98a7fc80e0",
+      "type": "jar"
+    },
+    {
+      "name": "net.java.jinput:jinput-platform:2.0.5",
+      "hash": "385ee093e01f587f30ee1c8a2ee7d408fd732e16",
+      "type": "jar"
+    },
+    {
+      "name": "com.mojang:text2speech:1.10.3",
+      "hash": "84a4b856389cc4f485275b1f63497a95a857a443",
+      "type": "jar"
+    },
+    {
+      "name": "com.paulscode:soundsystem:20120107",
+      "hash": "419c05fe9be71f792b2d76cfc9b67f1ed0fec7f6",
+      "type": "jar"
+    },
+    {
+      "name": "com.mojang:text2speech:1.10.3",
+      "hash": "48fd510879dff266c3815947de66e3d4809f8668",
+      "type": "jar"
+    },
+    {
+      "name": "io.netty:netty-all:4.1.9.Final",
+      "hash": "0097860965d6a0a6b98e7f569f3f966727b8db75",
+      "type": "jar"
+    },
+    {
+      "name": "com.mojang:realms:1.10.22",
+      "hash": "bd0dccebdf3744c75f1ca20063f16e8f7d5e663f",
+      "type": "jar"
+    },
+    {
+      "name": "it.unimi.dsi:fastutil:7.1.0",
+      "hash": "9835253257524c1be7ab50c057aa2d418fb72082",
+      "type": "jar"
     }
   ]
 }
