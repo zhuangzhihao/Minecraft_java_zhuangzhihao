@@ -48,13 +48,6 @@
       "remote": "Thu, 30 Jan 2020 02:00:05 GMT"
     },
     {
-      "url": "https://download.mcbbs.net/mc/game/version_manifest.json",
-      "eTag": "\"5e869963-1c7b7\"",
-      "hash": "d6924e548c80acee859d6f49b02d2ecc16c7d6ce",
-      "local": 1585923559798,
-      "remote": "Fri, 03 Apr 2020 02:03:15 GMT"
-    },
-    {
       "url": "https://download.mcbbs.net/v1/packages/28c11387f2c576240a31d359991bbaed28db57ab/1.15.json",
       "eTag": "\"5e2ad3ea-3957e\"",
       "hash": "28c11387f2c576240a31d359991bbaed28db57ab",
@@ -74,6 +67,13 @@
       "hash": "28c11387f2c576240a31d359991bbaed28db57ab",
       "local": 1583914233442,
       "remote": "Fri, 24 Jan 2020 11:24:26 GMT"
+    },
+    {
+      "url": "https://download.mcbbs.net/mc/game/version_manifest.json",
+      "eTag": "\"5e87ea21-1c7b7\"",
+      "hash": "d6924e548c80acee859d6f49b02d2ecc16c7d6ce",
+      "local": 1589634745756,
+      "remote": "Sat, 04 Apr 2020 02:00:01 GMT"
     }
   ]
 }
